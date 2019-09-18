@@ -1,0 +1,96 @@
+body {
+	text-align: center;
+	margin:0;
+}
+
+a{
+	color: #f15b31;
+	text-decoration: none;
+}
+h1, h2, h3{
+	font-family: "raleway";
+	text-transform: uppercase;
+}
+h1{
+	margin:0;
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+}
+
+h2{
+	color: #f15b31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+	border-bottom: 2px solid transparent;
+}
+h3{
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+}
+p{
+	font-family: "droid serif";
+	line-height: 26px;
+	font-size: 18px;
+}
+header{
+	background-color: #F15B31;
+	color: #fff;
+	padding: 30px 20px;
+}
+nav{
+	background-color: #00A6B3;
+	color: #fff;
+	padding: 20px;
+
+}
+a{
+	margin: 0 20px;
+	color: #FFF;
+
+}
+a:hover{
+	border-bottom: 2px solid #fff;
+}
+main{
+	width: 850px;
+	margin: 35px auto;
+}
+img{
+	margin:40px 8px 0 8px;
+}
+footer{
+	text-transform: uppercase;
+	padding: 0 20px;
+	background-color: #0D2C40;
+	color: #fff;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+}
+.copyright{
+	font-family:"raleway";
+	float: left;
+}
+.message{
+	font-family:"raleway";
+	float: right;
+}
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+.name{
+	color: #F15B31;
+	font-weight: 700;
+
+}
+
